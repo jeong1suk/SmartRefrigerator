@@ -1,0 +1,5 @@
+pip install numpy==1.23.5
+pip install roboflow
+pip install streamlit
+pip install pymongo
+pip install pyngrok
